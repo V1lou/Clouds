@@ -13,9 +13,11 @@
 - Третья ошибка – также при запуске мы в fail мы использовали команду CMD, где мы обращаемся к python для запуска python файла. Минус этой команды в том, что при запуске контейнера мы можем переиздавать файл.
   
 ошибки Dockerfile:
+
 ![ошибка №1](https://github.com/V1lou/Clouds/blob/main/LAB%20№2/fail/1.jpg)
 
 файл python:
+
 ![ошибка №1](https://github.com/V1lou/Clouds/blob/main/LAB%20№2/fail/2.jpg)
 
 
@@ -29,14 +31,19 @@
 3) Запускаем процесс создания образа (docker build)
 
 образ fail:
+
 ![образ fail](https://github.com/V1lou/Clouds/blob/main/LAB%20№2/fail/4.jpg)
 
 образ good:
+
 ![образ good](https://github.com/V1lou/Clouds/blob/main/LAB%20№2/good/5.jpg)
 
 4)  Запустим контейнер:
    
 сам образ:
+
 ![образ](https://github.com/V1lou/Clouds/blob/main/LAB%20№2/good/7.jpg)
+
 Контейнер запустили с помощью команды docker run.
+
 ![запуск контейнера](https://github.com/V1lou/Clouds/blob/main/LAB%20№2/good/6.jpg)
