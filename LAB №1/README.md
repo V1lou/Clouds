@@ -46,3 +46,20 @@
 Сделать аналогичное, но подключаться при помощи публичных и приватных ключей, а не по логину паролю.
 
 ## Ход работы
+
+1) Генерируем ключи на ПК А и ПК Б
+далее: ключ Б передаем в А; ключ А передаем в С
+
+![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/8.png)
+
+
+
+![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/7.png)
+
+
+
+![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/2.png)
+
+
+
+![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/1.png)
