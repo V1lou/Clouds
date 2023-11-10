@@ -10,7 +10,12 @@
 
 1)  Для начала подключаем все устройства к единой сети WiFi и убеждаемся в том, что они подключились к 1 локальной сети:
    
-Получается IP следующие: ПК A - 172.20.10.5;
+![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/3.png)
+
+![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/10.png)
+
+   
+Получается IP следующие: ПК A - 172.20.10.7;
                          ПК Б - 172.20.10.5;
                          ПК С - 172.20.10.4.
 
