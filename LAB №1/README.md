@@ -37,10 +37,6 @@
 
 ![file](https://github.com/V1lou/Clouds/blob/main/LAB%20%E2%84%961/screenshots/6.png)
   
-ошибки Dockerfile:
-
-![ошибка №1](https://github.com/V1lou/Clouds/blob/main/LAB%20№2/fail/1.jpg)
-
 
 
 ## Задание со звёздочкой
