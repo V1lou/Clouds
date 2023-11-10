@@ -18,6 +18,7 @@
 3) Финальное - перенести файл на ПК С.
    
 В качестве файла был выбран скриншот рабочего стола - 1.jpeg:
+
 ![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/file.jpg)
   
 ошибки Dockerfile:
