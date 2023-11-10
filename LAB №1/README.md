@@ -48,6 +48,7 @@
 ## Ход работы
 
 1) Генерируем ключи на ПК А и ПК Б
+   
 далее: ключ Б передаем в А; ключ А передаем в С
 
 ![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/8.png)
