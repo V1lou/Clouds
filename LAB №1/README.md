@@ -30,9 +30,16 @@
 
 ![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/file.jpg)
 
+
+
+
 Итак, с помощью команды scp передаем файл (указываем распложение файла, имя пользователя и IP-адрес):
   
 ![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/5.png)
+
+
+
+
 
 ## Задание со звёздочкой
 
