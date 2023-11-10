@@ -64,3 +64,14 @@
 
 
 ![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/1.png)
+
+
+2)
+
+Далее уже проверяем, подключается ли у нас ПК А к ПК С без ввода пароля.
+
+Затем подключаемся через Б в А и перекидываем файл из ПК А в ПК С
+
+![file](https://github.com/V1lou/Clouds/blob/main/LAB%20№1/screenshots/6.png)
+
+   
