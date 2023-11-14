@@ -2,6 +2,9 @@
 ## Команда Outlast
 ### :japanese_castle: Участники команды:
 
+![cats](https://github.com/V1lou/photos-for-labs/blob/main/cats.jpg)
+
+
 | ИМЯ | ТГ-АККАУНТ |
 |----------------|:---------:|
 | **Холод Виолетта** | **https://t.me/maybevilou** | 
