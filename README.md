@@ -1,6 +1,6 @@
 # :partly_sunny: Лабораторные работы по дисциплине: "Облачные технологии и услуги"
 ## Команда Outlast
-### :feet: Участники команды:
+### Участники команды:
 
 ![cats](https://github.com/V1lou/photos-for-labs/blob/main/cats4.jpg)
 
