@@ -4,6 +4,8 @@
 
 ![cats](https://github.com/V1lou/photos-for-labs/blob/main/cats.jpg)
 
+<img src="(https://github.com/V1lou/photos-for-labs/blob/main/cats.jpg)" width="500">
+
 | ИМЯ | ТГ-АККАУНТ |
 |----------------|:---------:|
 | **Холод Виолетта** | **https://t.me/maybevilou** | 
