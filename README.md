@@ -5,6 +5,6 @@
 | ИМЯ | ТГ-АККАУНТ |
 |----------------|:---------:|
 | Холод Виолетта | ***https://t.me/maybevilou*** | 
-| Сергеев Артём | https://t.me/imrreyz | 
-| Морозов Матвей | https://t.me/jkkgmr | 
-| Копытко Александр | https://t.me/monegasquee | 
+| Сергеев Артём | ***https://t.me/imrreyz*** | 
+| Морозов Матвей | ***https://t.me/jkkgmr*** | 
+| Копытко Александр | ***https://t.me/monegasquee*** | 
