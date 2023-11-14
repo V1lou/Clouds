@@ -2,7 +2,7 @@
 ## Команда Outlast
 ### :japanese_castle: Участники команды:
 
-    ![cats](https://github.com/V1lou/photos-for-labs/blob/main/cats3.jpg)
+    ![cats](https://github.com/V1lou/photos-for-labs/blob/main/cats4.jpg)
 
 
 
