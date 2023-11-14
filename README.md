@@ -2,9 +2,7 @@
 ## Команда Outlast
 ### :japanese_castle: Участники команды:
 
-<img src="(https://github.com/V1lou/photos-for-labs/blob/main/cats.jpg)" width="500">
-
-
+![cats](https://github.com/V1lou/photos-for-labs/blob/main/cats2.jpg)
 
 | ИМЯ | ТГ-АККАУНТ |
 |----------------|:---------:|
