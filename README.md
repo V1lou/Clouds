@@ -13,15 +13,10 @@
 | **Копытко Александр** | **https://t.me/monegasquee** |
 
 
-
-
-
-
-
 ## Список DevOps лабораторных:
 
-- [**LAB №1**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%961) 
+- [**LAB №1**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%961) :heavy_check_mark:
 
-- [**LAB №2**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%962)
+- [**LAB №2**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%962) :heavy_check_mark:
 
-- [**LAB №3**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%963) - не сделана
+- [**LAB №3**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%963) :heavy_multiplication_x:
