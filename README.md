@@ -16,7 +16,7 @@
 
 
 
-## Список DEVOPS ЛАБ:
+## Список DevOps лабораторных:
 
 - [**LAB №1**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%961) 
 
