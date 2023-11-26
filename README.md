@@ -15,8 +15,8 @@
 
 ## Список DevOps лабораторных:
 
-- [**LAB №1**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%961) :white_check_mark:
+- [**LAB №1**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%961) 
 
-- [**LAB №2**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%962) :white_check_mark:
+- [**LAB №2**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%962) 
 
-- [**LAB №3**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%963) :negative_squared_cross_mark:
+- [**LAB №3**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%963) - не сделана
