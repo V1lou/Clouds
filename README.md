@@ -1,4 +1,4 @@
-# Лабораторные работы по дисциплине: "Облачные технологии и услуги"
+#  :partly_sunny: Лабораторные работы по дисциплине: "Облачные технологии и услуги"
 ## Команда Outlast
 ## Участники команды:
 
@@ -19,7 +19,7 @@
 
 - [**LAB №2**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%962) 
 
-- [**LAB №3**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%963) - не сделана :sunny:
+- [**LAB №3**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%963) - не сделана
 
   
 
