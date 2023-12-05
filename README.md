@@ -1,6 +1,6 @@
 #  :partly_sunny: Лабораторные работы по дисциплине: "Облачные технологии и услуги"
 ## Команда Outlast
-##  :japanese_castle: Участники команды:
+##   :japanese_castle: Участники команды:
 
 ![cats](https://github.com/V1lou/photos-for-lab/blob/main/cats4.jpg)
 
