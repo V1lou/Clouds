@@ -26,4 +26,4 @@
 ## Список Аналитических лабораторных:
 
 - [**LAB №1**](https://github.com/V1lou/Clouds/tree/main/LAB%20№1%20(analytical))  
-
+- [**LAB №2**](https://github.com/V1lou/Clouds/tree/main/LAB%20%E2%84%962%20(analytical))  
