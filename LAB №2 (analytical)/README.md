@@ -1,12 +1,6 @@
 description: "I am perfectly suited for this environment." - Tinker
 ---
-# Отчёт Аналитическая лабораторная работа №2 "Azure"
-
-## Состав команды
-* Холод Виолетта https://t.me/maybevilou
-* Сергеев Артём https://t.me/imrreyz
-* Морозов Матвей 	https://t.me/jkkgmr
-* Копытко Александр https://t.me/monegasquee
+# Аналитическая лабораторная работа №2 "Azure"
 
 ## Цель работы
 Изучение облачных сервисов с целью овладения основными принципами. Акцентирование внимания на понимании уровней абстракции, предоставляемых над инфраструктурой в облачной среде. Освоение различных типов потребления сервисов в контексте сервисной модели. Проведение сопоставления между сервисами различных облачных провайдеров для выявления аналогий и особенностей.
@@ -16,7 +10,7 @@ description: "I am perfectly suited for this environment." - Tinker
 2. Google с документациями провайдера
 
 ## Исходные данные
-<img src="Screenshot_4.png">
+![screen1](https://github.com/V1lou/Clouds/blob/main/LAB%20№2%20(analytical)/screenshots/1.png)
 
 ### Ход работы:
 
@@ -87,7 +81,7 @@ description: "I am perfectly suited for this environment." - Tinker
 Azure Bastion: В облаке Yandex пока нет точного аналога Azure Bastion, который предоставляет безопасный удаленный доступ к виртуальным машинам через браузер без необходимости использования общедоступных IP-адресов.
 
 # Итоговая таблица
-<img src="Screenshot_5.png">
+![screen2](https://github.com/V1lou/Clouds/blob/main/LAB%20№2%20(analytical)/screenshots/2.png)
 
 # Выводы на основе маппинга
 
