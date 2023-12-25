@@ -23,8 +23,8 @@
     days_left = (new_year - current_date).days
 
     # Записываем результат в файл
-    with open('вфны.txt', 'w') as file:
+    with open('days.txt', 'w') as file:
     file.write(f'До Нового года осталось {days_left} дней')
 
     ```
-![days](https://github.com/V1lou/Clouds/blob/main/LAB%20%E2%84%963/screenshots/code.png)
+![days]()
