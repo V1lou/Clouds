@@ -98,4 +98,4 @@ jobs:
 
 Теперь можем видеть образ на DockerHub!
 
-
+![img3](https://github.com/V1lou/Clouds/blob/main/LAB%20%E2%84%963/screenshots/the%20end.png)
