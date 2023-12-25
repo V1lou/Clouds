@@ -59,32 +59,34 @@ CMD ["python", "days.py"]
 
 
 
-Теперь что касается yml-файла. У нас есть 4 шага "check code" (проверки кода), "go to DockerHub" (вход в DockerHub с использованием секретов), "build docker image" (создание Docker-образа), "push docker image to DockerHub" (отправдяем созданный образ в DockerHub):
+Теперь что касается yml-файла. У нас есть 3 шага "check code" (проверки кода), "go to DockerHub" (вход в DockerHub с использованием секретов), "push and build docker image to DockerHub" (создание Docker-образа, отправление созданного образа в DockerHub):
 
 ```
-name: docker-build
-
+name: build docker
 on:
   push:
     branches:
-      - main
-
+      - 'main'
 jobs:
   build-and-push:
+    name: build and push
     runs-on: ubuntu-latest
-
     steps:
       - name: check code
-        uses: actions/checkout@v2
-
+        uses: actions/checkout@v4
+        
       - name: go to DockerHub
-        run: docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_PASSWORD }}
-
-      - name: build docker image
-        run: docker build -t v1lou/image:latest
-
-      - name: push docker image to DockerHub
-        run: docker push v1lou/image:latest
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+          
+      - name: push and build docker image to DockerHub
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: true
+          tags: v1lou/image:latest
 ```
 Построение прошло все этапы успешно:
 
