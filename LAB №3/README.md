@@ -86,3 +86,6 @@ jobs:
       - name: push docker image to DockerHub
         run: docker push v1lou/image:latest
 ```
+Построение прошло все этапы успешно:
+
+![img2](https://github.com/V1lou/Clouds/blob/main/LAB%20%E2%84%963/screenshots/build-and-push.png)
