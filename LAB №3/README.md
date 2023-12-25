@@ -26,6 +26,7 @@ days_left = (new_year - current_date).days
 with open('days.txt', 'w') as file:
 file.write(f'До Нового года осталось {days_left} дней')
 ```
+
 3) Следующим шагом было создание Docker-файла, который будет запускать ранее написанный код - days.py:
 ```
 FROM python:3.10
