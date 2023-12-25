@@ -46,5 +46,32 @@ CMD ["python", "days.py"]
 
 Таким образом, наш Docker-файл создает контейнер, который запускает файл days.py при запуске контейнера с использованием интерпретатора Python.
 
-4) Далее мы создали файл с названием docker.yml, он будет содержать инструкции для автоматической сборки Docker-образа и сохранения результата его сборки после пуша в репозиторий.
+4) Далее мы создали yml-файл с названием docker.yml, он будет содержать инструкции для автоматической сборки Docker-образа и сохранения результата его сборки после пуша в репозиторий.
+```
+name: Build and Save Docker Image
 
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-save-docker-image:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build Docker image
+        run: docker build -t my-image .
+
+      - name: Save Docker image to file
+        run: docker save my-image -o my-image.tar
+
+      - name: Upload image artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: my-image
+          path: my-image.tar
+```
