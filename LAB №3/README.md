@@ -57,6 +57,7 @@ CMD ["python", "days.py"]
 
 
 
+Теперь что касается yml-файла. У нас есть 4 шага "check code" (проверки кода), "go to DockerHub" (вход в DockerHub с использованием секретов), "build docker image" (создание Docker-образа), "push docker image to DockerHub" (отправдяем созданный образ в DockerHub).
 
 ```
 name: docker-build
