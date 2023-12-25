@@ -10,23 +10,22 @@
 1) Для начала мы создали репозиторий, в котором будет сохраняться результат сборки докер образа: https://github.com/V1lou/Docker.
 
 2) Кроме того, мы написали программу на языке Python. Этот код вычисляет количество дней до Нового года и записывает результат в файл с именем "days.txt":
-    ```
-    from datetime import datetime
+```
+from datetime import datetime
 
-    # Получаем текущую дату
-    current_date = datetime.now()
+# Получаем текущую дату
+current_date = datetime.now()
 
-    # Получаем дату Нового года для текущего года
-    new_year = datetime(current_date.year + 1, 1, 1)
+# Получаем дату Нового года для текущего года
+new_year = datetime(current_date.year + 1, 1, 1)
 
-    # Вычисляем количество дней до Нового года
-    days_left = (new_year - current_date).days
+# Вычисляем количество дней до Нового года
+days_left = (new_year - current_date).days
 
-    # Записываем результат в файл
-    with open('days.txt', 'w') as file:
-    file.write(f'До Нового года осталось {days_left} дней')
-
-    ```
+# Записываем результат в файл
+with open('days.txt', 'w') as file:
+file.write(f'До Нового года осталось {days_left} дней')
+```
 3) Следующим шагом было создание Docker-файла, который будет запускать ранее написанный код - days.py (смотрите следующий скриншот).
 
 ![days]()
