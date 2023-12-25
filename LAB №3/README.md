@@ -29,11 +29,11 @@ file.write(f'До Нового года осталось {days_left} дней')
 
 3) Следующим шагом было создание Docker-файла, который будет запускать ранее написанный код - days.py:
 ```
-FROM python:3.10
+FROM python:3.10.13-bookworm
 
-WORKDIR /app/
+COPY days.py /app/days.py
 
-COPY . /app/
+WORKDIR /app
 
 CMD ["python", "days.py"]
 ```
