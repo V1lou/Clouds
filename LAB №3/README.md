@@ -59,7 +59,7 @@ CMD ["python", "days.py"]
 
 
 ```
-name: Build and Save Docker Image
+name: docker-build
 
 on:
   push:
@@ -67,22 +67,19 @@ on:
       - main
 
 jobs:
-  build-and-save-docker-image:
+  build-and-push:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: check code
         uses: actions/checkout@v2
 
-      - name: Build Docker image
-        run: docker build -t my-image .
+      - name: go to DockerHub
+        run: docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_PASSWORD }}
 
-      - name: Save Docker image to file
-        run: docker save my-image -o my-image.tar
+      - name: build docker image
+        run: docker build -t v1lou/image:latest .
 
-      - name: Upload image artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: my-image
-          path: my-image.tar
+      - name: push docker image to DockerHub
+        run: docker push v1lou/image:latest
 ```
